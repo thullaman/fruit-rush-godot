@@ -1,0 +1,51 @@
+[gd_scene load_steps=4 format=3 uid="uid://b2vsqoim5j2cl"]
+
+[ext_resource type="Texture2D" uid="uid://bnfmnnre8sl4s" path="res://Pink.png" id="1_6dowp"]
+[ext_resource type="Script" path="res://mc/main_menu.gd" id="1_h0png"]
+[ext_resource type="Texture2D" uid="uid://iu5u164f45s5" path="res://cooltext.png" id="2_x34ch"]
+
+[node name="MainMenu" type="Node"]
+script = ExtResource("1_h0png")
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+texture_filter = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_6dowp")
+stretch_mode = 1
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -390.0
+offset_top = -190.0
+offset_right = 413.0
+offset_bottom = -67.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_x34ch")
+
+[node name="LVL1" type="Button" parent="."]
+offset_left = 173.0
+offset_top = 397.0
+offset_right = 415.0
+offset_bottom = 507.0
+theme_override_font_sizes/font_size = 30
+text = "LEVEL 1"
+
+[node name="LVL2" type="Button" parent="."]
+offset_left = 684.0
+offset_top = 396.0
+offset_right = 926.0
+offset_bottom = 506.0
+theme_override_font_sizes/font_size = 30
+text = "LEVEL 2"
+
+[connection signal="pressed" from="LVL1" to="." method="_on_lvl_1_pressed"]
+[connection signal="pressed" from="LVL2" to="." method="_on_lvl_2_pressed"]
