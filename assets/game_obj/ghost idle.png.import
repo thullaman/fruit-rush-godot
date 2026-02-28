@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c72emexwedo73"
-path="res://.godot/imported/Blue.png-99b845350a8b7cb68c6cc5bba6d44eeb.ctex"
+uid="uid://d2cpe6m8a8q13"
+path="res://.godot/imported/ghost idle.png-acdddecc30f8db8262022bfb8f000b1a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Blue.png"
-dest_files=["res://.godot/imported/Blue.png-99b845350a8b7cb68c6cc5bba6d44eeb.ctex"]
+source_file="res://assets/game_obj/ghost idle.png"
+dest_files=["res://.godot/imported/ghost idle.png-acdddecc30f8db8262022bfb8f000b1a.ctex"]
 
 [params]
 

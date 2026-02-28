@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bnfmnnre8sl4s"
-path="res://.godot/imported/Pink.png-59945329d561b5ef1136740f03dbe479.ctex"
+uid="uid://csi4v2my8ghew"
+path="res://.godot/imported/Melon.png-542ae15174d5d99cb19d481c4541a49c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Pink.png"
-dest_files=["res://.godot/imported/Pink.png-59945329d561b5ef1136740f03dbe479.ctex"]
+source_file="res://assets/game_obj/Melon.png"
+dest_files=["res://.godot/imported/Melon.png-542ae15174d5d99cb19d481c4541a49c.ctex"]
 
 [params]
 

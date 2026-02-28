@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://csi4v2my8ghew"
-path="res://.godot/imported/Melon.png-58ba1327df7bc023d7f9ac7201644a0e.ctex"
+uid="uid://cs8pm5lqoapbt"
+path="res://.godot/imported/health.png-cea572d4d8d975edd7376918cf156596.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Melon.png"
-dest_files=["res://.godot/imported/Melon.png-58ba1327df7bc023d7f9ac7201644a0e.ctex"]
+source_file="res://assets/game_obj/health.png"
+dest_files=["res://.godot/imported/health.png-cea572d4d8d975edd7376918cf156596.ctex"]
 
 [params]
 

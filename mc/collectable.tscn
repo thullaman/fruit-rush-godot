@@ -1,6 +1,6 @@
 [gd_scene load_steps=22 format=3 uid="uid://pyxbpkf2vloe"]
 
-[ext_resource type="Texture2D" uid="uid://csi4v2my8ghew" path="res://Melon.png" id="1_k6atg"]
+[ext_resource type="Texture2D" uid="uid://csi4v2my8ghew" path="res://assets/game_obj/Melon.png" id="1_k6atg"]
 [ext_resource type="Script" path="res://mc/collectable.gd" id="1_ye3ia"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_2ud7s"]

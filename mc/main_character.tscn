@@ -1,9 +1,9 @@
 [gd_scene load_steps=30 format=3 uid="uid://c2fclj7rf1mdu"]
 
 [ext_resource type="Script" path="res://mc/main_character.gd" id="1_cedyl"]
-[ext_resource type="Texture2D" uid="uid://b48cbg3d4moj1" path="res://Jump (32x32).png" id="1_jiwiu"]
-[ext_resource type="Texture2D" uid="uid://dha3m56gia8gj" path="res://Idle (32x32).png" id="2_kfklk"]
-[ext_resource type="Texture2D" uid="uid://c6jnakn1jx1jb" path="res://Run (32x32).png" id="4_qm1et"]
+[ext_resource type="Texture2D" uid="uid://b48cbg3d4moj1" path="res://assets/game_obj/Jump (32x32).png" id="1_jiwiu"]
+[ext_resource type="Texture2D" uid="uid://dha3m56gia8gj" path="res://assets/game_obj/Idle (32x32).png" id="2_kfklk"]
+[ext_resource type="Texture2D" uid="uid://c6jnakn1jx1jb" path="res://assets/game_obj/Run (32x32).png" id="4_qm1et"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_mpsmg"]
 atlas = ExtResource("2_kfklk")
